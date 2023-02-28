@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java Spring
 
-- 💞️ I’m looking to collaborate on web project made with angular framework
+- 💞️ I’m looking to collaborate on web project made with angular framework and Java Spring
 
 - 📫 How to reach me : https://www.linkedin.com/in/sami-bourai-55b9a1203/
 
