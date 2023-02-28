@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Developement
 
-- 🌱 I’m currently learning Angular, Node.js, Express, MongoDb or firebase
+- 🌱 I’m currently learning Java Spring
 
 - 💞️ I’m looking to collaborate on web project made with angular framework
 
