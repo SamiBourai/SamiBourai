@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SamiBourai
 
-- 👀 I’m interested in Web Developement
-
-- 🌱 I’m currently learning Java Spring
-
-- 💞️ I’m looking to collaborate on web project made with angular framework and Java Spring
+- 👀 I’m interested in cloud computing and AI/MLOps
 
 - 📫 How to reach me : https://www.linkedin.com/in/sami-bourai-55b9a1203/
 
